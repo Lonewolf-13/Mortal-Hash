@@ -13,7 +13,7 @@ Mortal Hash is a tool programmed to decrypt hashs like {md5-sha1-sha256-sha384-s
 ## Installation:
   
     $ apt-get install git
-    $ git clone https://github.com/Sohaib13002/Mortal-Hash
+    $ git clone https://github.com/Lonewolf-13/Mortal-Hash
     $ cd Mortal-Hash
     $ sudo chmod +x mortal_hash.py
 
