@@ -9,17 +9,19 @@ Mortal Hash is a tool programmed to decrypt hashs like {md5-sha1-sha256-sha384-s
 * Hash Type: sha384
 * Hash Type: sha512
 
-## Usage:
-
-    ./mortal_hash.py <md5 or sha1 or sha256 or sha384 or sha512> <hash> <wordlist>      
-    Example: ./mortal_hash.py md5 5d41402abc4b2a76b9719d911017c592 /usr/share/wordlists/rockyou.txt 
-
 ## Installation:
   
     $ apt-get install git
     $ git clone https://github.com/Sohaib13002/Mortal-Hash
     $ cd Mortal-Test
     $ sudo chmod +x mortal_hash.py
+
+
+## Usage:
+
+    ./mortal_hash.py <md5 or sha1 or sha256 or sha384 or sha512> <hash> <wordlist>      
+    Example: ./mortal_hash.py md5 5d41402abc4b2a76b9719d911017c592 /usr/share/wordlists/rockyou.txt 
+
   
   
  
