@@ -1,5 +1,6 @@
 # Mortal-Hash
 Mortal Hash is a tool programmed to decrypt hashs like {md5-sha1-sha256-sha384-sha512}
+![Screenshot_2021-08-03_09_25_57](https://user-images.githubusercontent.com/73993175/128027108-6313e6ee-6dee-408b-9900-0284c72b7f6f.png)
 
 ## This Script Can Crack:
 * Hash Type: md5
